@@ -40,7 +40,8 @@ ${data.usage}
 ## License
 
 ${badge}
-This project is covered under the ${data.license}.
+
+This project is covered under the ${data.license}.  Click the badge above to learn more.
 
 
 ## Contributing
