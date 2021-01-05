@@ -1,5 +1,15 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
+  let badge = "!! PLACEHOLDER.  PLEASE INSERT LICENSE INFORMATION !!";
+
+  if (data.license == "CC BY") {
+    badge = "[![licensebuttons by](https://licensebuttons.net/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/4.0)"
+  } else if (data.license == "GNU GPLv3") {
+    badge = "[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)"
+  } else if (data.license == "MIT") {
+    badge = "[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)"
+  }
+
   return `# ${data.projectTitle}
 
 ## Description
@@ -29,7 +39,8 @@ ${data.usage}
 
 ## License
 
-${data.license}
+${badge}
+This project is covered under the ${data.license}.
 
 
 ## Contributing

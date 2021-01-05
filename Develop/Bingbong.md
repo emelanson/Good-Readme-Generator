@@ -1,8 +1,8 @@
-# DEMO README
+# Bingbong
 
 ## Description
 
-IT's a demo readme generator
+coolio
 
 ## Table of Contents
 
@@ -17,30 +17,31 @@ IT's a demo readme generator
 
 ## Installation
 
-okay
+install it
 
 
 ## Usage 
 
-heree weee go
+no
 
 
 ## License
 
-GNU GPLv3
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+This project is covered under the GNU GPLv3.
 
 
 ## Contributing
 
-yes yes yse
+okay
 
 ## Tests
 
-okayyy
+test it
 
 ## Questions/Contact
 
-If you want to get in touch with me, my github is http://github.com/emelanson, and my email is elijahmelanson@gmail.com.
+If you want to get in touch with me, my github is http://github.com/github, and my email is eeee.
 
 
   

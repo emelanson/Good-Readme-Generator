@@ -83,7 +83,6 @@ function init() {
 
 }
 
-badgeSelector()
 
 // function call to initialize program
 init();
