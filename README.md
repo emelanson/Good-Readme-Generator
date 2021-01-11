@@ -4,8 +4,7 @@
 
 This is a CLI written in node.js that helps users create good readmes.
 
-[Develop\assets\Walkthrough.webm]
-
+[[Develop\assets\Walkthrough.webm]]
 ## Table of Contents
 
 * [Installation](#installation)
