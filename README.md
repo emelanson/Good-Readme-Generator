@@ -1,10 +1,10 @@
-# Readme generator
+# GoodReadmeGenerator
 
 ## Description
 
-This project is a CLI that generates good readmes for user projects.
+This is a CLI written in node.js that helps users create good readmes.
 
-![walkthrough](./Develop/assets/Walkthrough.webm)
+[Develop\assets\Walkthrough.webm]
 
 ## Table of Contents
 
@@ -19,12 +19,12 @@ This project is a CLI that generates good readmes for user projects.
 
 ## Installation
 
-to install, download the repo and npm i.
+download the repo and NPM i
 
 
 ## Usage 
 
-Make sure to fill out each of the prompts with descriptive text.  
+you are free to use the program however you wish.
 
 
 ## License
@@ -36,11 +36,11 @@ This project is covered under the GNU GPLv3.  Click the badge above to learn mor
 
 ## Contributing
 
-If you would like to contribute to the project, please contact me.
+If you want to contribute, contact me.
 
 ## Tests
 
-Not applicable.
+N/A
 
 ## Questions/Contact
 
