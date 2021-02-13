@@ -44,7 +44,7 @@ N/A
 
 ## Questions/Contact
 
-If you want to get in touch with me, my github is http://github.com/emelanson, and my email is elijahmelanson@gmail.com.
+If you want to get in touch with me, my github is http://github.com/emelanson, and my email is elijah.mela////nson@gmail.com [remove the ////].
 
 
   
