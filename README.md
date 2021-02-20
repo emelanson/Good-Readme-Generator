@@ -2,49 +2,38 @@
 
 ## Description
 
-This is a CLI written in node.js that helps users create good readmes.
+This is a simple CLI written in nodeJS that helps users create good READMEs.
 
-![](Develop\assets\Walkthrough.webm)
+<img src="./assets/demo.gif">
 
 ## Table of Contents
 
 * [Installation](#installation)
-* [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Tests](#tests)
 * [Questions/Contact](#questions/contact)
 
 
 
 ## Installation
 
-download the repo and NPM i
-
-
-## Usage 
-
-you are free to use the program however you wish.
+Download the repo and ```NPM i```.  Launch using ```node index.js```.
 
 
 ## License
 
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
-This project is covered under the GNU GPLv3.  Click the badge above to learn more.
+This project is covered under the MIT.  Click the badge above to learn more.
 
 
 ## Contributing
 
-If you want to contribute, contact me.
+To contribute to the project, send me a message on github.
 
-## Tests
-
-N/A
 
 ## Questions/Contact
 
-If you want to get in touch with me, my github is http://github.com/emelanson, and my email is elijah.mela////nson@gmail.com [remove the ////].
+ http://github.com/emelanson
 
-
-  
+ My email is (my first and last name)@gmail.com
